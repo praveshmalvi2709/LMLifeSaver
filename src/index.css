@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer base {
+  /* Force hand cursor for all native and custom clickable controls */
+  button,
+  a,
+  select,
+  input[type="checkbox"],
+  input[type="radio"],
+  input[type="range"],
+  [role="button"],
+  .cursor-pointer {
+    cursor: pointer !important;
+  }
+}

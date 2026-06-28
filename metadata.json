@@ -1,0 +1,6 @@
+{
+  "name": "The Last-Minute Life Saver",
+  "description": "An intelligent productivity co-pilot and deadline rescue partner designed to avoid crisis situations, break down overcommitments, and manage scheduling conflicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
