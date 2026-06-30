@@ -274,7 +274,7 @@ export default function LandingPage({ onLoginSuccess }: LandingPageProps) {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="max-w-2xl mx-auto text-base sm:text-lg text-slate-500 font-medium leading-relaxed"
           >
-            Stop listing tasks. Start orchestrating flow. Catalyst OS combines predictive burnout sensors, spatial focus soundscapes, and gamified league mechanics to align your cognitive focus with perfect execution.
+            Stop listing tasks. Start orchestrating flow. LM.LifeSaver combines predictive burnout sensors, spatial focus soundscapes, and gamified league mechanics to align your cognitive focus with perfect execution.
           </motion.p>
 
           <motion.div 
@@ -316,7 +316,7 @@ export default function LandingPage({ onLoginSuccess }: LandingPageProps) {
                 <div className="w-3 h-3 rounded-full bg-red-500" />
                 <div className="w-3 h-3 rounded-full bg-yellow-500" />
                 <div className="w-3 h-3 rounded-full bg-green-500" />
-                <span className="text-[10px] font-mono text-slate-400 ml-2">CATALYST_OS_CONSOLE v2.4</span>
+                <span className="text-[10px] font-mono text-slate-400 ml-2">LM_LIFESAVER_CONSOLE v2.4</span>
               </div>
               <div className="bg-slate-900 border border-slate-800 rounded-lg px-2 py-1 text-[10px] font-mono text-[#FF5416] font-bold">
                 ● CO-PILOT OPTIMIZER LIVE
@@ -382,7 +382,7 @@ export default function LandingPage({ onLoginSuccess }: LandingPageProps) {
               Experience the Feature Engine
             </h2>
             <p className="text-slate-500 font-medium text-sm sm:text-base">
-              Click any protocol below to experience how the Catalyst OS co-pilot dynamically orchestrates your daily work, focus, and collaboration loops.
+              Click any protocol below to experience how the LM.LifeSaver co-pilot dynamically orchestrates your daily work, focus, and collaboration loops.
             </p>
           </div>
 
@@ -1191,7 +1191,7 @@ export default function LandingPage({ onLoginSuccess }: LandingPageProps) {
         <div className="lg:col-span-5 bg-gradient-to-br from-slate-900 to-indigo-950 rounded-[36px] p-8 text-white space-y-6 shadow-xl relative overflow-hidden">
           <div className="absolute -top-12 -right-12 w-48 h-48 bg-orange-500/10 rounded-full blur-[50px] pointer-events-none" />
           
-          <h3 className="text-2xl font-black tracking-tight">Catalyst Flow Index</h3>
+          <h3 className="text-2xl font-black tracking-tight">LM.LifeSaver Flow Index</h3>
           <p className="text-slate-300 text-xs font-medium leading-relaxed">
             "By implementing predictive rescheduling, my team's average streak rose from 4 days to 14 days. It removed the stress of task clutter completely."
           </p>
@@ -1411,9 +1411,9 @@ export default function LandingPage({ onLoginSuccess }: LandingPageProps) {
             <div className="w-7 h-7 bg-gradient-to-tr from-[#FF5416] to-[#FF8A00] rounded-lg flex items-center justify-center text-white">
               <Compass className="w-4 h-4 stroke-[2.5]" />
             </div>
-            <span className="font-extrabold text-white">CATALYST.OS</span>
+            <span className="font-extrabold text-white">LM.LifeSaver</span>
           </div>
-          <p>© 2026 Catalyst Inc. All rights reserved. Secure Firebase Sandbox.</p>
+          <p>© 2026 LM.LifeSaver. All rights reserved. Secure Firebase Sandbox.</p>
           <div className="flex gap-4 text-xs font-semibold">
             <span className="hover:text-white cursor-pointer">Privacy Protocol</span>
             <span className="hover:text-white cursor-pointer">Terms of Service</span>
